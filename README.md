@@ -1,10 +1,9 @@
-# Inventory-Demand-Forecasting-and-Optimization-using-Time-Series-Analysis
-📦 Inventory Management using Time Series Forecasting
-📌 Project Overview
+# Inventory Management using Time Series Forecasting
+# Project Overview
 
 Managing spare parts inventory in service centers is a critical challenge. Despite high investments, service centers often face stockouts and excess holding costs. This project applies time series forecasting techniques to predict demand accurately and enable Just-in-Time (JIT) inventory practices, reducing costs while improving availability.
 
-🎯 Objectives
+# Objectives
 
 Forecast demand for spare parts using time series models.
 
@@ -12,7 +11,7 @@ Improve inventory planning and reduce holding costs.
 
 Assist service centers in achieving JIT standards.
 
-📂 Project Workflow
+# Project Workflow
 
 1. Business Case Understanding – Defined the inventory challenges and forecasting goals.
 
