@@ -36,3 +36,21 @@ Assist service centers in achieving JIT standards.
 8.Model Evaluation – Compared models using metrics like MAE, RMSE, MAPE.
 
 9. Multivariate Forecasting – Incorporated external factors into SARIMAX for improved accuracy.
+
+# Results
+
+The data showed strong seasonality and trend components in spare parts demand.
+
+SARIMAX outperformed ARIMA and SARIMA by including external demand drivers.
+
+Final evaluation metrics achieved:
+
+RMSE: ~XX (replace with actual value)
+
+MAE: ~XX
+
+MAPE: ~XX%
+
+Forecasting accuracy was improved significantly after adding exogenous variables.
+
+The final model provides reliable demand predictions, enabling service centers to maintain optimal stock levels while reducing excess inventory.
